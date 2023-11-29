@@ -1,4 +1,4 @@
 # MILKY-DAIRY
 My first project.
 <br>
-Author - DURGESH MALAKARJI
+Author - DURGESH MALAKAR
